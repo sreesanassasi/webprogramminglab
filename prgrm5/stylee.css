@@ -1,0 +1,21 @@
+
+.box{
+font-family:"Times New Roman";
+background-color: white;
+width:800px;
+height:370px;
+padding:15px;
+}
+.external-box h1{
+color:yellow;
+font-size:280px;
+}
+p{
+color:black;
+font-size:14px;
+}
+img{
+width:500px;
+height:190px;
+}
+
